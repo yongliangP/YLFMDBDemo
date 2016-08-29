@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  YLFMDBDemo
 //
-//  Created by 彭永亮 on 16/8/29.
+//  Created by yongliangP on 16/8/29.
 //  Copyright © 2016年 yongliangP. All rights reserved.
 //
 
@@ -15,7 +15,8 @@
 @implementation AppDelegate
 
 
-- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
+{
     // Override point for customization after application launch.
     return YES;
 }
